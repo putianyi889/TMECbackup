@@ -1,5 +1,5 @@
 # TMECbackup
-Backup of T-MEC threads. For those who have limited access to TCF (e.g. China mainland people)
+Backup of T-MEC threads. For those who have limited access to TCF (e.g. people in China mainland)
 
 T-MEC: https://forums.terraria.org/index.php?forums/t-mec-terraria-mechanical-engineering-corps.194/
 
