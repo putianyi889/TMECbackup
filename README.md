@@ -8,3 +8,5 @@ T-MEC: https://forums.terraria.org/index.php?forums/t-mec-terraria-mechanical-en
 目前缓慢更新，有任何需求可以在[Issues](https://github.com/putianyi889/TMECbackup/issues)中提问。
 
 有任何英文词句理解问题，也可以在[Issues](https://github.com/putianyi889/TMECbackup/issues)中提问。
+
+愿意协助完成该数据库的，可以通过[Pull requests](https://github.com/putianyi889/TMECbackup/pulls)上传网页。
